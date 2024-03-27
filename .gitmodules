@@ -1,0 +1,3 @@
+[submodule "Svd2cppObjects"]
+	path = Svd2cppObjects
+	url = git@github.com:otukka/Svd2cppObjects.git
